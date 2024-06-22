@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CameraHub")(type "KiCad")(uri "${KIPRJMOD}/../KiCad-Libraries/CameraHub.pretty")(options "")(descr ""))
+)
