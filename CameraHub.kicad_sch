@@ -3401,7 +3401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CameraHub:MountingHole"
+		(property "Footprint" "CameraHub:MountingHole2"
 			(at 50.8 152.4 0)
 			(effects
 				(font
@@ -4473,7 +4473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CameraHub:MountingHole"
+		(property "Footprint" "CameraHub:MountingHole2"
 			(at 50.8 182.88 0)
 			(effects
 				(font
@@ -5069,7 +5069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CameraHub:MountingHole"
+		(property "Footprint" "CameraHub:MountingHole2"
 			(at 50.8 172.72 0)
 			(effects
 				(font
@@ -5199,7 +5199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CameraHub:MountingHole"
+		(property "Footprint" "CameraHub:MountingHole2"
 			(at 50.8 162.56 0)
 			(effects
 				(font

@@ -808,7 +808,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "USB_Hub.step",
+      "step": "../Board Models/Avionics-CameraHub.step",
       "svg": "",
       "vrml": ""
     },
