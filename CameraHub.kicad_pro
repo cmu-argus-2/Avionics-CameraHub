@@ -805,7 +805,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../Gerbers/CameraHub",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../Board Models/Avionics-CameraHub.step",
